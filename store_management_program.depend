@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1430920802 source:e:\drive\projects\store_management_program\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
